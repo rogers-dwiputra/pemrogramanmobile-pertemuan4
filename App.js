@@ -46,7 +46,7 @@ const ContohPertemuan4 = () => {
       <TouchableHighlight 
       style={{ marginBottom: 8 }}
       onPress={() => { alert("Hello World di Klik") }}>
-      <Text>Hello World</Text>
+      <Text>Halo Dunia</Text>
       </TouchableHighlight>
       <Cat nama="Meow 1" usia="1"/>
       <Cat nama="Meow 2"/>
